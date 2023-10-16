@@ -1,4 +1,3 @@
-[![Header](./headerfaz.png)]
 <h1 align="center">Hello 👋, I'm Mohamed Fazil M</h1>
 <h3 align="center">Zealous Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.massistcrm.com/images/2.gif">
